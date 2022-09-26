@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="GameTitle">Tick Tak Toe</string>
+    <string name="Grid">Tick Tak Toe Grid</string>
+    <string name="heading">Tick Tak Toe</string>
+    <string name="x">x</string>
+    <string name="Status">Tap To Play</string>
+
+</resources>
